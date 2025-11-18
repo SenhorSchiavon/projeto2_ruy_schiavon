@@ -1,0 +1,6 @@
+pymongo
+python-dotenv
+dnspython
+numpy
+scikit-learn
+matplotlib
